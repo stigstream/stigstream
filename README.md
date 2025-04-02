@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-Hi, I'm **Your Name**, a passionate developer who loves coding in multiple languages and creating awesome projects. I'm constantly learning and improving my skills!
+Hi, I'm **Jack**, a passionate developer who loves coding in multiple languages and creating awesome projects. I'm constantly learning and improving my skills!
 
 ---
 
