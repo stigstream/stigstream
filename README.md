@@ -14,8 +14,7 @@
 
 ### 🌐 Connect with Me
 
-- **Discord**: WoodyV4
-- **GitHub**: [stigstream](https://github.com/stigstream) _(coming soon)_
+- **Discord**: l.ua54
 
 ---
 
