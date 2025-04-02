@@ -48,10 +48,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stigstream&show_icons=true&theme=radical&hide_border=true" alt="Woody's GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stigstream&theme=radical&hide_border=true" alt="Woody's GitHub Streak" />
-</p>
-
 ---
 
 ### 🏆 Achievements
